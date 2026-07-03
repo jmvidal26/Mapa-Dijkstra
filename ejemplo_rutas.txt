@@ -1,0 +1,9 @@
+Lugares
+Heladeria
+Ferreteria
+Supermercado
+Rutas
+RutaA -> Heladeria:Ferreteria = P:2.5; B:0; C:1
+RutaB -> Heladeria:Ferreteria = P:2.5; B:13; C:10
+RutaC -> Ferreteria:Supermercado = P:4; B:6; C:3
+RutaD -> Heladeria:Supermercado = P:7; B:10; C:5
